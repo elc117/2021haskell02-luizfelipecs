@@ -2,6 +2,8 @@
 	Aquecimento Prática Haskell 02
 -}
 
+module Haskell02warmup where
+
 square :: Int -> Int
 square x = x^2
   
